@@ -77,6 +77,7 @@ See each skill's **Related Skills** section for the full dependency map.
 | [page-cro](skills/page-cro/) | When the user wants to optimize, improve, or increase conversions on any marketing page — including homepage, landing... |
 | [paid-ads](skills/paid-ads/) | When the user wants help with paid advertising campaigns on Google Ads, Meta (Facebook/Instagram), LinkedIn, Twitter/X,... |
 | [paywall-upgrade-cro](skills/paywall-upgrade-cro/) | When the user wants to create or optimize in-app paywalls, upgrade screens, upsell modals, or feature gates. Also use... |
+| [phrase-to-content](skills/phrase-to-content/) | When the user wants to generate multiple types of marketing content from a single phrase or idea. Use when the user says... |
 | [popup-cro](skills/popup-cro/) | When the user wants to create or optimize popups, modals, overlays, slide-ins, or banners for conversion purposes. Also... |
 | [pricing-strategy](skills/pricing-strategy/) | When the user wants help with pricing decisions, packaging, or monetization strategy. Also use when the user mentions... |
 | [product-marketing-context](skills/product-marketing-context/) | When the user wants to create or update their product marketing context document. Also use when the user mentions... |
@@ -89,6 +90,7 @@ See each skill's **Related Skills** section for the full dependency map.
 | [signup-flow-cro](skills/signup-flow-cro/) | When the user wants to optimize signup, registration, account creation, or trial activation flows. Also use when the... |
 | [site-architecture](skills/site-architecture/) | When the user wants to plan, map, or restructure their website's page hierarchy, navigation, URL structure, or internal... |
 | [social-content](skills/social-content/) | When the user wants help creating, scheduling, or optimizing social media content for LinkedIn, Twitter/X, Instagram,... |
+| [visual-prompt-creator](skills/visual-prompt-creator/) | When the user wants to create prompts for AI image generators to produce marketing visuals, ad graphics, or social media images... |
 <!-- SKILLS:END -->
 
 ## Installation
@@ -214,7 +216,9 @@ You can also invoke skills directly:
 - `copy-editing` - Edit and polish existing copy
 - `cold-email` - B2B cold outreach emails and sequences
 - `email-sequence` - Automated email flows
+- `phrase-to-content` - Orchestrate multiple types of content from a single phrase
 - `social-content` - Social media content
+- `visual-prompt-creator` - Generate prompts for AI image generation tools (Midjourney, Ideogram, Flux)
 
 ### SEO & Discovery
 - `seo-audit` - Technical and on-page SEO
